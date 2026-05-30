@@ -136,24 +136,32 @@ Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5
 
 <img 
     align="left" 
-    alt="UiPath" 
-    title="UiPath"
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uipath/uipath-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Selenium" 
-    title="Selenium"
+    alt="Puppeteer"
+    title="Puppeteer" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
 <br/>
 
-Atuo com automação de processos robóticos (RPA) utilizando **UiPath** e **Selenium**, desenvolvendo bots para otimização de tarefas repetitivas e integração de sistemas no ambiente corporativo da GVN Corretora.
+Atuo com automação de processos robóticos (RPA) utilizando **Node.js**, **Puppeteer** e **Python**, desenvolvendo bots para otimização de tarefas repetitivas, web scraping e integração de sistemas no ambiente corporativo da GVN Corretora.
 
 ---
 
