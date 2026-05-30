@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Talisson Santos
 **`Desenvolvedor Backend`**
 
-Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Concluí o ensino médio no IFRS, com o curso de Sistemas de Informação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia.
+Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5º período de Sistemas de Informação na **Universidade Federal de Sergipe (UFS)**. Trabalho como desenvolvedor na **GVN Corretora**, onde atuo com automação RPA e desenvolvimento backend. Sou apaixonado por tecnologia.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tsantos99/" target="_blank">
@@ -16,6 +16,13 @@ Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Concluí o
       alt="Instagram" 
       title="Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+    />
+  </a>
+  <a href="https://github.com/gvn-talisson" target="_blank">
+    <img 
+      alt="GVN Corretora" 
+      title="Perfil Profissional - GVN Corretora"
+      src="https://img.shields.io/badge/GVN%20Corretora-181717?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
 </p>
@@ -122,6 +129,31 @@ Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Concluí o
 />
 <br/>
 <br/>
+
+---
+
+### ⚙️ RPA & Automação
+
+<img 
+    align="left" 
+    alt="UiPath" 
+    title="UiPath"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uipath/uipath-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+<br/>
+<br/>
+
+Atuo com automação de processos robóticos (RPA) utilizando **UiPath** e **Selenium**, desenvolvendo bots para otimização de tarefas repetitivas e integração de sistemas no ambiente corporativo da GVN Corretora.
 
 ---
 
