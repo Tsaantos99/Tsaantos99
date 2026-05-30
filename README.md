@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Talisson Santos
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Backend | Automação RPA | GVN Corretora`**
 
-Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5º período de Sistemas de Informação na **Universidade Federal de Sergipe (UFS)**. Trabalho como desenvolvedor na **GVN Corretora**, onde atuo com automação RPA e desenvolvimento backend. Sou apaixonado por tecnologia.
+Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5º período de Sistemas de Informação na **Universidade Federal de Sergipe (UFS)**. Trabalho como desenvolvedor na **GVN Corretora**, onde atuo com automação RPA e desenvolvimento backend no mercado financeiro. Sou apaixonado por tecnologia e por transformar processos manuais em soluções automatizadas.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tsantos99/" target="_blank">
@@ -25,6 +25,11 @@ Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5
       src="https://img.shields.io/badge/GVN%20Corretora-181717?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
+  <img 
+    alt="Visitantes" 
+    title="Visitantes do perfil"
+    src="https://komarev.com/ghpvc/?username=Tsaantos99&style=for-the-badge&color=0e75b6" 
+  />
 </p>
 
 ---
@@ -164,7 +169,17 @@ Atuo com automação de processos robóticos (RPA) utilizando **Node.js**, **Pup
 
 ---
 
-### 📊 Estatísticas
+### 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tsaantos99/Tsaantos99/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tsaantos99/Tsaantos99/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://github.com/Tsaantos99/Tsaantos99/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 📊 Estatísticas — Pessoal
 
 <p>
   <img 
@@ -179,5 +194,54 @@ Atuo com automação de processos robóticos (RPA) utilizando **Node.js**, **Pup
     alt="Linguagens mais usadas" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsaantos99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<p>
+  <img 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=Tsaantos99&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
+  />
+</p>
+
+<br/>
+
+<p>
+  <img 
+    alt="Troféus GitHub" 
+    src="https://github-profile-trophy.vercel.app/?username=Tsaantos99&theme=tokyonight&column=7&no-frame=true" 
+  />
+</p>
+
+---
+
+### 💼 Estatísticas — Profissional (GVN Corretora)
+
+> Meus commits do dia a dia de trabalho ficam neste perfil profissional.
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats GVN" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gvn-talisson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="Linguagens GVN" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvn-talisson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<p>
+  <img 
+    alt="GitHub Streak GVN" 
+    src="https://streak-stats.demolab.com?user=gvn-talisson&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
   />
 </p>
