@@ -8,7 +8,7 @@ Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5
     <img 
       alt="LinkedIn" 
       title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
   </a>
   <a href="https://www.instagram.com/tsantos99_/" target="_blank">
