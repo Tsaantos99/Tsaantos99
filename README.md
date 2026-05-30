@@ -179,25 +179,7 @@ Atuo com automação de processos robóticos (RPA) utilizando **Node.js**, **Pup
 
 ---
 
-### 📊 Estatísticas — Pessoal
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Tsaantos99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsaantos99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+### 📊 Estatísticas
 
 <p>
   <img 
@@ -212,36 +194,5 @@ Atuo com automação de processos robóticos (RPA) utilizando **Node.js**, **Pup
   <img 
     alt="Troféus GitHub" 
     src="https://github-profile-trophy.vercel.app/?username=Tsaantos99&theme=tokyonight&column=7&no-frame=true" 
-  />
-</p>
-
----
-
-### 💼 Estatísticas — Profissional (GVN Corretora)
-
-> Meus commits do dia a dia de trabalho ficam neste perfil profissional.
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats GVN" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gvn-talisson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Linguagens GVN" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvn-talisson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<p>
-  <img 
-    alt="GitHub Streak GVN" 
-    src="https://streak-stats.demolab.com?user=gvn-talisson&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
   />
 </p>
