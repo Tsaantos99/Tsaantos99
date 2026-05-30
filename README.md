@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Talisson Santos
+# 🧑🏽‍💻 Talisson Santos
 **`Desenvolvedor Backend | Automação RPA | GVN Corretora`**
 
 Me chamo Talisson Dos Santos, tenho 27 anos e sou natural de Sergipe. Estou no 5º período de Sistemas de Informação na **Universidade Federal de Sergipe (UFS)**. Trabalho como desenvolvedor na **GVN Corretora**, onde atuo com automação RPA e desenvolvimento backend no mercado financeiro. Sou apaixonado por tecnologia e por transformar processos manuais em soluções automatizadas.
